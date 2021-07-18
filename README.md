@@ -1,4 +1,6 @@
 # Dark WebView
+[![](https://jitpack.io/v/Kakyire/webview-theme.svg)](https://jitpack.io/#Kakyire/webview-theme)
+
 This library helps you to set your `WebView` background to dark in `Dark Theme`
 
 
